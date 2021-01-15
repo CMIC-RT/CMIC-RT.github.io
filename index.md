@@ -12,23 +12,21 @@ The atlas was built through a collaboration with University College London Hospi
 
 
 
+## Suggested software tools
+
+[NiftyReg](https://sourceforge.net/projects/niftyreg/) 
+
+
+
 ## Related publications
 
 C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and J Gains “Atlas construction and spatial normalisation to facilitate radiation-induced late effects research in childhood cancer” (submitted to Phys. Med. Biol.).
 
 
 
-
 ## Project updates
 
 Our aim is to make the models freely available for research purposes. Please check back, as we will continually update this site as additional content becomes available.
-
-
-
-## Suggested software tools
-
-[NiftyReg](https://sourceforge.net/projects/niftyreg/) 
-
 
 
 
@@ -47,7 +45,6 @@ Department of Medical Physics & Biomedical Engineering
 8th floor, Male Place Engineering Building, Malet Place, London WC1E 6BT
 
 E-mail: c.veiga@ucl.ac.uk
-
 
 
 
