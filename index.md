@@ -20,7 +20,7 @@ C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and
 
 Our aim is to make the models freely available for research purposes. Please check back, as we will continually update this site as additional content becomes available.
 
-### Suggested software tools
+## Suggested software tools
 
 [NiftyReg](https://sourceforge.net/projects/niftyreg/) 
 
