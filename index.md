@@ -20,7 +20,7 @@ The atlas was built through a collaboration with University College London Hospi
 
 ## Related publications
 
-C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and J Gains “Atlas construction and spatial normalisation to facilitate radiation-induced late effects research in childhood cancer,” Phys. Med. Biol. 66 105005 (2021). https://doi.org/10.1088/1361-6560/abf010
+C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and J Gains “Atlas construction and spatial normalisation to facilitate radiation-induced late effects research in childhood cancer,” [Phys. Med. Biol. 66 105005 (2021).](https://doi.org/10.1088/1361-6560/abf010)
 
 
 
