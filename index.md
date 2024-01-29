@@ -20,7 +20,7 @@ The atlas was built through a collaboration with University College London Hospi
 
 ## Related publications
 
-C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and J Gains “Atlas construction and spatial normalisation to facilitate radiation-induced late effects research in childhood cancer” (submitted to Phys. Med. Biol.).
+C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and J Gains “Atlas construction and spatial normalisation to facilitate radiation-induced late effects research in childhood cancer,” Phys. Med. Biol. 66 105005 (2021). https://doi.org/10.1088/1361-6560/abf010
 
 
 
@@ -36,7 +36,7 @@ If you would like to request updates of the availability of data and pipelines, 
 
 Dr Catarina Veiga
 
-Royal Academy of Engineering Senior Research Fellow
+Principal Royal Academy of Engineering Research Fellow
 
 Centre for Medical Image Computing
 
