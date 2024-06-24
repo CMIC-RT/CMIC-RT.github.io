@@ -36,7 +36,7 @@ If you would like to request updates of the availability of data and pipelines, 
 
 Dr Catarina Veiga
 
-Principal Royal Academy of Engineering Research Fellow
+Associate Professor
 
 Centre for Medical Image Computing
 
