@@ -26,7 +26,7 @@ C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and
 
 ## Project updates
 
-Our aim is to make the models freely available for research purposes. Please check back, as we will continually update this site as additional content becomes available.
+The model is available for non-commercial research at https://xip.uclb.com/product/rt-pal-radiotherapy-paediatric-atlas
 
 
 
