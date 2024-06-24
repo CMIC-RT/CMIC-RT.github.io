@@ -26,7 +26,7 @@ C Veiga, P Lim, V Anaya, E Chandy, R Ahmad, D D’Souza, M Gaze, S Moinuddin and
 
 ## Project updates
 
-The model is available for non-commercial research at https://xip.uclb.com/product/rt-pal-radiotherapy-paediatric-atlas
+The model is available for non-commercial research [here](https://xip.uclb.com/product/rt-pal-radiotherapy-paediatric-atlas)
 
 
 
@@ -36,7 +36,7 @@ If you would like to request updates of the availability of data and pipelines, 
 
 Dr Catarina Veiga
 
-Associate Professor
+Associate Professor, [Paediatric Radiotherapy & Imaging (PRIma) Group](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/research/research-groups/paediatric-radiotherapy-and-imaging-group-prima)
 
 Centre for Medical Image Computing
 
